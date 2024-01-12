@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my github:)
+
+I'm Hyeonji Yoo, Data Scientist!
+
 <!--
 **hyeonnjii/hyeonnjii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
