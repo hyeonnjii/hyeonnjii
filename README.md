@@ -15,5 +15,3 @@ WELCOME TO MY GITHUB :)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeonnjii&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="hyeonnjii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyeonnjii&" alt="hyeonnjii" /></p>
-
